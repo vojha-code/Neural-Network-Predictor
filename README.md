@@ -13,5 +13,5 @@ https://link.springer.com/chapter/10.1007/978-81-322-2544-7_7
 
 
 ## Simultaneous optimization of neural network weights and active nodes using metaheuristics
-VK Ojha, A Abraham, V Snášel - Hybrid Intelligent Systems (HIS), 2014<br>
+VK Ojha, A Abraham, V Snášel - Hybrid Intelligent Systems (HIS), 2014 <br>
 http://ieeexplore.ieee.org/abstract/document/7086207/
