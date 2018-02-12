@@ -7,7 +7,7 @@ Please refer to the  papers included with this contribution for details of this 
 VK Ojha, A Abraham, V Snášel - Engineering Applications of Artificial Intelligence, 2017<br>
 https://doi.org/10.1016/j.engappai.2017.01.013
 
-![Spectrum of neural network design] (https://github.com/VarunKumarOjha/Neural-Network-Predictor/blob/master/mh_nn_glim.png)
+![](https://github.com/VarunKumarOjha/Neural-Network-Predictor/blob/master/mh_nn_glim.png)
 
 ## Convergence analysis of backpropagation algorithm for designing an intelligent system for sensing manhole gases
 VK Ojha, P Dutta, A Chaudhuri, H Saha - Hybrid Soft Computing Approaches, 2016<br>
