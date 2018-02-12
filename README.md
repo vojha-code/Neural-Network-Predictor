@@ -3,11 +3,11 @@ Software (Standalone): This is a predictive modeling software. In this file soft
 
 Please refer to the  papers included with this contribution for details of this software.
 
+![](https://github.com/VarunKumarOjha/Neural-Network-Predictor/blob/master/mh_nn_glim.png)
 ## Metaheuristic design of feedforward neural networks: A review of two decades of research
 VK Ojha, A Abraham, V Snášel - Engineering Applications of Artificial Intelligence, 2017<br>
 https://doi.org/10.1016/j.engappai.2017.01.013
 
-![](https://github.com/VarunKumarOjha/Neural-Network-Predictor/blob/master/mh_nn_glim.png)
 
 ## Convergence analysis of backpropagation algorithm for designing an intelligent system for sensing manhole gases
 VK Ojha, P Dutta, A Chaudhuri, H Saha - Hybrid Soft Computing Approaches, 2016<br>
